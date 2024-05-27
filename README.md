@@ -1,4 +1,5 @@
-Boas vindas ao meu perfil 💙💙
+BOAS VINDAS AO MEU PERFIL 💙💙
+
 *meu nome é Noelyb
 *Estou estudando na Alura
 *Estou me desenvolvendo na linguagem JavaScript
